@@ -282,3 +282,9 @@
 | L     | 74.0   | 57.0   | 67.0   |
 | XL    | 76.0   | 60.0   | 68.5   |
 | XXL   | 78.0   | 63.0   | 70.0   |
+
+# Sonstiges
+
+* [Versand](https://help.spreadshirt.com/hc/de/articles/207165489-Lieferzeit-Versandkosten)
+* [Probeexemplare](https://help.spreadshirt.com/hc/de/articles/5226063053970-Probeexemplare-bestellen)
+* [Rückgabe](https://help.spreadshirt.com/hc/de/articles/207165559-Umtausch-und-R%C3%BCckgabe)
